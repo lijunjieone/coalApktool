@@ -1,0 +1,1 @@
+../auto-sign/sign.sh
